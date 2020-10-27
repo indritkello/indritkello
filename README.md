@@ -13,8 +13,8 @@ const Kello = {
   code: [C#, VB, .NET, MVC, Entity Framework, SQL, Angular, Vue, React],
   tools: [Visual Studio, Microsoft SQL Server, Android Studio, Node, Adobe XD ],
   architecture: ["organized", "curious", "patterns enthusiast"],
-  sports: ["chess lol"],
-  nationality: "Albania",
+  sports: ["chess"],
+  nationality: "Albanian",
   countryOfResidence: "Norway"  
 }
 ```
