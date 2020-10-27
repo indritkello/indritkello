@@ -1,6 +1,6 @@
 <h2> Hello, I'm Indrit Kello! <img src="https://media.giphy.com/media/Y4VFF2hJTGjm6yp69i/giphy.gif" width="30"></h2>
 <img align='right' src="https://media.giphy.com/media/gIl90vrqMIjm3MO4Xi/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="http://www.hano.no">Hano</a><img src="https://media.giphy.com/media/LPmCQHEnnO1VlYXTfl/source.gif" width="30">
+<p><em>Software Engineer at <a href="http://www.hano.no">Hano </a><img src="https://media.giphy.com/media/LPmCQHEnnO1VlYXTfl/source.gif" width="30">
 </em></p>
 
 
@@ -12,8 +12,11 @@
 const Kello = {
   code: [C#, VB, .NET, MVC, Entity Framework, SQL, Angular, Vue, React],
   tools: [Visual Studio, Microsoft SQL Server, Android Studio, Node, Adobe XD ],
-  architecture: ["organized", "curious", "patterns enthusiast"]
+  architecture: ["organized", "curious", "patterns enthusiast"],
+  sports: ["chess lol"],
+  nationality: "Albania",
+  countryOfResidence: "Norway"  
 }
 ```
-<em><b>Always eager to learn and provide optimal solutions.</em>
+<em><b>Always eager to learn and provide optimal solutions.</b></em>
 ---
