@@ -10,12 +10,10 @@
 ### A little about me...  
 ```javascript
 const Kello = {
-  code: [C#, VB, .NET, MVC, Entity Framework, SQL, Angular, Vue, React],
-  tools: [Visual Studio, Microsoft SQL Server, Android Studio, Node, Adobe XD ],
-  architecture: ["organized", "curious", "patterns enthusiast"],
-  sports: ["chess"],
+  code: [C#, VB, SQL, Javascript, R, C++, Java]
+  architecture: ["organized", "curious", "technology enthusiast"],
   nationality: "Albanian",
-  countryOfResidence: "Norway"  
+  countryOfResidence: "Norway"
 }
 ```
 <em><b>Always eager to learn and provide optimal solutions.</b></em>
