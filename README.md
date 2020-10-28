@@ -4,7 +4,7 @@
 </em></p>
 
 
-<img src="https://img.shields.io/badge/-indritkello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/indritkello/" >
+<a href="https://www.linkedin.com/in/indrit-kello/"><img src="https://img.shields.io/badge/-indritkello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/indritkello/" ></a>
 
 
 ### A little about me...  
