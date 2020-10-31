@@ -9,11 +9,10 @@
 
 ### A little about me...  
 ```javascript
-const Kello = {
-  code: [C#, VB, SQL, Javascript, R, C++, Java]
-  architecture: ["organized", "curious", "technology enthusiast"],
-  nationality: "Albanian",
-  countryOfResidence: "Norway"
+const IndritKello = {
+  languages: [ "C#", "VB", "SQL", "Javascript", "R", "C++", "Java" ],
+  frameworks: [ ".NET", "AngularJs", "VueJs", "ReactNative" ],  
+  nature: ["organized", "curious", "technology enthusiast"]  
 }
 ```
 <em><b>Always eager to learn and provide optimal solutions.</b></em>
