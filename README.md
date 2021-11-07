@@ -1,6 +1,6 @@
 <h2> Hello, I'm Indrit Kello! <img src="https://media.giphy.com/media/Y4VFF2hJTGjm6yp69i/giphy.gif" width="30"></h2>
 <!--<img align='right' src="https://media.giphy.com/media/gIl90vrqMIjm3MO4Xi/giphy.gif" width="230"><a href="https://app.daily.dev/indritkello">-->
-<a align='right' href="https://app.daily.dev/indritkello"><img src="https://api.daily.dev/devcards/a6290764fe2141359bf90c251cc55d7e.png?r=k42" width="400" alt="Indrit Kello's Dev Card"/></a>
+<img align='right' src="https://api.daily.dev/devcards/a6290764fe2141359bf90c251cc55d7e.png?r=k42" width="400" alt="Indrit Kello's Dev Card"/>
 <p><em>Software Engineer at <a href="http://www.hano.no">Hano </a><img src="https://media.giphy.com/media/LPmCQHEnnO1VlYXTfl/source.gif" width="30">
 </em></p>
 
