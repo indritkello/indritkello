@@ -20,5 +20,5 @@ const IndritKello = {
   nature: ["organized", "curious", "technology enthusiast"]  
 }
 ```
-<em><small>Always eager to learn and provide optimal solutions.</small></em>
+<em><h5>Eager to learn and provide optimal solutions.</h5></em>
 ---
