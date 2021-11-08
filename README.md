@@ -1,7 +1,7 @@
 <h2> Hello, I'm Indrit Kello! <img src="https://media.giphy.com/media/Y4VFF2hJTGjm6yp69i/giphy.gif" width="30"></h2>
 <!--<img align='right' src="https://media.giphy.com/media/gIl90vrqMIjm3MO4Xi/giphy.gif" width="230"><a href="https://app.daily.dev/indritkello">-->
 
-<img align='right' src="https://github.com/indritkello/blob/main/devcard.svg" width="230" alt="Indrit Kello's Dev Card" />
+<img align='right' src="https://github.com/indritkello/indritkello/blob/main/devcard.svg" width="230" alt="Indrit Kello's Dev Card" />
 <p>
   <em>
     Software Engineer at <a href="http://www.hano.no">Hano </a><img src="https://media.giphy.com/media/LPmCQHEnnO1VlYXTfl/source.gif" width="30">
