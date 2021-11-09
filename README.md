@@ -12,13 +12,13 @@
 <a href="https://www.linkedin.com/in/indrit-kello/" target="_blank"><img src="https://img.shields.io/badge/-indritkello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/indritkello/" ></a>
 
 
-### A little about me...  
+### Eager to learn and provide optimal solutions.  
 ```javascript
 const IndritKello = {
-  languages: [ "C#", "VB", "SQL", "Javascript", "R", "C++", "Java" ],
-  frameworks: [ ".NET", "AngularJs", "VueJs", "ReactNative" ],  
-  nature: ["organized", "curious", "technology enthusiast"]  
+  languages: [ "C#", "Javascript", "SQL", "C++", "R", "Python", "Java" ],
+  frameworks: [ "ASP.NET", ".NET Core", "Vue", "React", "Angular" ],  
+  nature: ["organized", "motivated", "curious", "analytic", "technology enthusiast"],
+  interests: ["architecture", "infrastructure", "patterns", "design", "gamification", "nfx", "blockchain"]
 }
 ```
-<em><h5>Eager to learn and provide optimal solutions.</h5></em>
 ---
