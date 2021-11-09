@@ -6,10 +6,10 @@
   <em>
     Software Engineer at <a href="http://www.hano.no">Hano </a><img src="https://media.giphy.com/media/LPmCQHEnnO1VlYXTfl/source.gif" width="30">
   </em>
+  <a href="https://www.linkedin.com/in/indrit-kello/" target="_blank"><img src="https://img.shields.io/badge/-indritkello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/indritkello/" ></a>
 </p>
 
 
-<a href="https://www.linkedin.com/in/indrit-kello/" target="_blank"><img src="https://img.shields.io/badge/-indritkello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/indritkello/" ></a>
 
 
 ### Eager to learn and provide optimal solutions.  
