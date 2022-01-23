@@ -4,7 +4,7 @@
 <img align='right' src="https://github.com/indritkello/indritkello/blob/main/devcard.svg" width="350" alt="Indrit Kello's Dev Card" />
 <p>
   <em>
-    Software Engineer at <a href="http://www.hano.no">Hano </a><img src="https://media.giphy.com/media/LPmCQHEnnO1VlYXTfl/source.gif" width="30">
+    Software Engineer at <a href="https://www.salesscreen.com">SalesScreen </a><img src="https://media.giphy.com/media/LPmCQHEnnO1VlYXTfl/source.gif" width="30">
   </em>
   <a href="https://www.linkedin.com/in/indrit-kello/" target="_blank"><img src="https://img.shields.io/badge/-indritkello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/indritkello/" ></a>
 </p>
@@ -15,10 +15,9 @@
 ### Eager to learn and provide optimal solutions.  
 ```javascript
 const IndritKello = {
-  languages: [ "C#", "Javascript", "SQL", "C++", "R", "Python", "Java" ],
-  frameworks: [ "ASP.NET", ".NET Core", "Vue", "React", "Angular" ],  
-  nature: ["organized", "motivated", "curious", "analytic", "technology enthusiast"],
-  interests: ["architecture", "infrastructure", "patterns", "design", "gamification", "nfx", "blockchain"]
+  languages: [ "C#", "JS", "SQL", "C++", "Java", "R" ],
+  frameworks: [ "ASP.NET Core", "Vue", "React", "Angular", "jQuery" ],  
+  nature: [ "organized", "motivated", "analytic" ],
+  interests: [ "architecture", "infrastructure", "gamification" ]
 }
 ```
----
