@@ -4,7 +4,7 @@
 <img align='right' src="https://github.com/indritkello/indritkello/blob/main/devcard.svg" width="350" alt="Indrit Kello's Dev Card" />
 <p>
   <em>
-    Software Engineer at <a href="https://www.salesscreen.com">SalesScreen </a><img src="https://media.giphy.com/media/LPmCQHEnnO1VlYXTfl/source.gif" width="30">
+    Senior Software Engineer at <a href="https://www.salesscreen.com">SalesScreen </a><img src="https://media.giphy.com/media/LPmCQHEnnO1VlYXTfl/source.gif" width="30">
   </em>
   <a href="https://www.linkedin.com/in/indrit-kello-software-engineer/" target="_blank"><img src="https://img.shields.io/badge/-indritkello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/indritkello/" ></a>
 </p>
