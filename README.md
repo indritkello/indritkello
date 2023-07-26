@@ -14,12 +14,10 @@
 
 ### Eager to learn and provide optimal solutions.  
 ```javascript
-const myExperience = {
-  languages: [ "C#", "TS", "JS", "C++", "R" ],
-  frameworks: [ ".NET", "React", "Vue" ],
+const experience = {
+  programming: ["C#", "TypeScript"],
+  frameworks: [".NET", "React", "Vue"],
   databases: ["SQL", "PostgreSQL", "CosmosDB"],
-  platforms: ["Azure"],
-  numberOfProjects: 20,
-  yearsOfExperience: 7 
+  platforms: ["Azure"]
 }
 ```
